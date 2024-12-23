@@ -1,7 +1,7 @@
 {
   "type": "module",
   "private": true,
-  "packageManager": "pnpm@9.15.0",
+  "packageManager": "pnpm@9.15.1",
   "scripts": {
     "build": "nuxi build",
     "dev": "nuxi dev",
@@ -25,9 +25,9 @@
     "vue-router": "^4.5.0"
   },
   "devDependencies": {
-    "@nuxt/eslint": "^0.7.3",
+    "@nuxt/eslint": "^0.7.4",
     "eslint": "^9.17.0",
     "vue-tsc": "^2.1.10",
-    "wrangler": "^3.97.0"
+    "wrangler": "^3.99.0"
   }
 }
