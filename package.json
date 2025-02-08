@@ -15,7 +15,7 @@
   "dependencies": {
     "@iconify-json/ph": "^1.2.2",
     "@nuxt/ui": "^2.21.0",
-    "@nuxthub/core": "^0.8.16",
+    "@nuxthub/core": "^0.8.17",
     "@vueuse/core": "^11.3.0",
     "@vueuse/nuxt": "^11.3.0",
     "feed": "^4.2.2",
@@ -26,7 +26,7 @@
   },
   "devDependencies": {
     "@nuxt/eslint": "^0.7.6",
-    "eslint": "^9.19.0",
+    "eslint": "^9.20.0",
     "vue-tsc": "^2.2.0",
     "wrangler": "^3.107.3"
   }
