@@ -26,8 +26,8 @@
   },
   "devDependencies": {
     "@nuxt/eslint": "^0.7.6",
-    "eslint": "^9.20.0",
+    "eslint": "^9.20.1",
     "vue-tsc": "^2.2.0",
-    "wrangler": "^3.107.3"
+    "wrangler": "^3.108.1"
   }
 }
