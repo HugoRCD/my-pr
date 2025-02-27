@@ -1,7 +1,7 @@
 {
   "type": "module",
   "private": true,
-  "packageManager": "pnpm@9.15.5",
+  "packageManager": "pnpm@9.15.6",
   "scripts": {
     "build": "nuxi build",
     "dev": "nuxi dev",
@@ -28,6 +28,6 @@
     "@nuxt/eslint": "^0.7.6",
     "eslint": "^9.21.0",
     "vue-tsc": "^2.2.4",
-    "wrangler": "^3.109.2"
+    "wrangler": "^3.110.0"
   }
 }
