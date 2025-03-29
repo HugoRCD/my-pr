@@ -15,7 +15,7 @@
   "dependencies": {
     "@iconify-json/ph": "^1.2.2",
     "@nuxt/ui": "^2.21.1",
-    "@nuxthub/core": "^0.8.21",
+    "@nuxthub/core": "^0.8.22",
     "@vueuse/core": "^11.3.0",
     "@vueuse/nuxt": "^11.3.0",
     "feed": "^4.2.2",
